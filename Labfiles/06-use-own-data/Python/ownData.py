@@ -4,6 +4,7 @@ import json
 from dotenv import load_dotenv
 
 # Add OpenAI import
+from openai import AzureOpenAI
 
 
 def main(): 
